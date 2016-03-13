@@ -1,18 +1,18 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cez-aug/awesome-service-workers.svg)](http://github.com/cez-aug/awesome-service-workers)
-
 > A curated list of the awesome Service Worker API.
 
-# Awesome Service Worker :sparkles: :man:
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cez-aug/awesome-service-workers.svg)](http://github.com/cez-aug/awesome-service-workers)
 
-> Service workers essentially act as proxy servers that sit between web applications, and the browser and network (when available). They are intended to (amongst other things) enable the creation of effective offline experiences, intercepting network requests and taking appropriate action based on whether the network is available and updated assets reside on the server. 
+# Awesome Service Worker :man::sparkles:
+
+Service workers essentially act as proxy servers that sit between web applications, and the browser and network (when available). They are intended to (amongst other things) enable the creation of effective offline experiences, intercepting network requests and taking appropriate action based on whether the network is available and updated assets reside on the server. 
+
+> Enjoy Service Workers & Web App stuff? Follow me on [Twitter](http://twitter.com/cez_aug) 
 
 <br>
 <p align="center">
 <a href="#introductionarticles">Introduction/Articles</a> • <a href="#tutorials">Tutorials</a> • <a href="#use-cases-demos">Use Cases and Demos</a> • <a href="#references-specifications">References and Specifications</a> • <a href="#support">Support</a> 
 </p>
 <br>
-
-> Enjoy Service Workers & Web App stuff? Follow me on [Twitter](http://twitter.com/cez_aug) 
 
 ## Introduction/Articles 
 
