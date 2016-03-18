@@ -10,7 +10,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 
 <br>
 <p align="center">
-<a href="#getting-started">Introduction/Articles</a> • <a href="#tutorials">Tutorials</a> • <a href="#use-cases-demos">Use Cases and Demos</a> • <a href="#references-specifications">References and Specifications</a> • <a href="#other">Other</a> • <a href="#to-do-chicken">To-Do</a> • <a href="#support">Support</a> 
+<a href="#getting-started">Getting Started</a> • <a href="#tutorials">Tutorials</a> • <a href="#use-cases-demos">Use Cases and Demos</a> • <a href="#references">References</a> • <a href="#who-to-follow">Who to Follow</a> • <a href="#other">Other</a> • <a href="#to-do-chicken">To-Do</a> • <a href="#support">Support</a> 
 </p>
 <br>
 
@@ -28,7 +28,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Google Chrome Dev Summit - **Code Labs**](https://codelabs.developers.google.com/chrome-dev-summit)
 * [Google Chrome - **Service Worker**](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 * [Jake Archibald - **Simple Service Worker Tutorial**](https://github.com/jakearchibald/simple-serviceworker-tutorial)
-* [Jake Archibald - **Offline Cookbook**](https://jakearchibald.com/2014/offline-cookbook/)
+* [Jake Archibald - **Offline Cookbook**](https://jakearchibald.com/2014/offline-cookbook)
 * [David Walsh - **Offline Recipes Service Workers**](https://davidwalsh.name/offline-recipes-service-workers)
 
 ## Use Cases & Demos
@@ -40,18 +40,23 @@ Service workers essentially act as proxy servers that sit between web applicatio
 
 [Google Developers - **The ServiceWorker: The network layer is yours to own**](https://www.youtube.com/watch?v=4uQMl7mFB6g)
 
-## References & Specifications
+## References
 
 * [MDN - **Service Worker API**](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [W3C - **Service Worker** (Working Draft)](https://www.w3.org/TR/service-workers/)
 * [W3C - **Service Worker** (nightly)](https://slightlyoff.github.io/ServiceWorker/spec/service_worker/)
 * [Alex Russell - **The Service Worker Specification**](https://github.com/slightlyoff/ServiceWorker)
-* [Mozilla - **Service Worker Cookbook**](https://serviceworke.rs)/
+* [Mozilla - **Service Worker Cookbook**](https://serviceworke.rs)
 
 ## Support
 
 * [Can I Use - **Service Workers**](http://caniuse.com/#feat=serviceworkers)
 * [Jake Archibald - **Is Service Worker ready?**](https://jakearchibald.github.io/isserviceworkerready/)
+
+## Who to Follow?
+
+* [Jake Archibald](https://twitter.com/jaffathecake)
+* [Service Workers News](https://twitter.com/service_workers)
 
 ## Other
 
