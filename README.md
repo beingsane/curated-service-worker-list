@@ -62,6 +62,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 ## Other
 
 * [**Offline-first List** thing](https://github.com/pazguille/offline-first)
+* [Mozilla Hacks - **Debugging Service Workers and Push with Firefox devTools**](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)
 
 > Found something missing? would like to include something new? [Contribute!](CONTRIBUTING.md)
 
