@@ -35,6 +35,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 
 * [W3C - **Service Workers Demo**](https://github.com/w3c-webmob/ServiceWorkersDemos)
 * [Google Chrome - **Application Shell**](https://github.com/GoogleChrome/application-shell)
+* [Patrick Hamann - **Embrace the Network**](https://github.com/phamann/embrace-the-network)
 
 ## Videos
 
