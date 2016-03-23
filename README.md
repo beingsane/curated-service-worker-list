@@ -21,6 +21,10 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Google Chromium - **Service Worker**](https://www.chromium.org/blink/serviceworker/getting-started)
 * [Aaron T. Grogg - **The difference between Service Workers, Web Workers and WebSockets**](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
 
+## Articles
+
+* [Mozilla Hacks - ServiceWorkers](https://hacks.mozilla.org/category/serviceworkers/)
+
 ## Tutorials
 
 * [Smashing Magazine - **Making a Service Worker**](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
@@ -62,7 +66,6 @@ Service workers essentially act as proxy servers that sit between web applicatio
 ## Other
 
 * [**Offline-first List** thing](https://github.com/pazguille/offline-first)
-* [Mozilla Hacks - **Debugging Service Workers and Push with Firefox devTools**](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)
 
 > Found something missing? would like to include something new? [Contribute!](CONTRIBUTING.md)
 
