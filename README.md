@@ -10,7 +10,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 
 <br>
 <p align="center">
-<a href="#getting-started">Getting Started</a> • <a href="#tutorials">Tutorials</a> • <a href="#use-cases-demos">Use Cases and Demos</a> • <a href="#references">References</a> • <a href="#who-to-follow">Who to Follow</a> • <a href="#other">Other</a> • <a href="#to-do-chicken">To-Do</a> • <a href="#support">Support</a> 
+<a href="#getting-started">Getting Started</a> • <a href="#constant-updates-about-service-workers">Constantly Updated</a> • <a href="#tutorials">Tutorials</a> • <a href="#use-cases-demos">Use Cases & Demos</a> • <a href="#videos">Videos</a> • <a href="#references">References</a> • <a href="#support">Support</a> • <a href="#who-to-follow">Who to Follow?</a>
 </p>
 <br>
 
@@ -20,10 +20,13 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Pluralsight - **Introduction to Service Worker**](https://www.pluralsight.com/blog/software-development/introduction-to-service-worker)
 * [Google Chromium - **Service Worker**](https://www.chromium.org/blink/serviceworker/getting-started)
 * [Aaron T. Grogg - **The difference between Service Workers, Web Workers and WebSockets**](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
+* [Remy Sharp - **The copy & paste guide to your first Service Worker**](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
+* [Alex Russell - **ServiceWorkers Explained**](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
 
-## Articles
+## Constant Updates about Service Workers
 
-* [Mozilla Hacks - ServiceWorkers](https://hacks.mozilla.org/category/serviceworkers/)
+* [Mozilla Hacks - **ServiceWorkers**](https://hacks.mozilla.org/category/serviceworkers/)
+* [Jake Archibald Blog](https://jakearchibald.com/)
 
 ## Tutorials
 
@@ -61,8 +64,9 @@ Service workers essentially act as proxy servers that sit between web applicatio
 
 ## Who to Follow?
 
-* [Jake Archibald](https://twitter.com/jaffathecake)
 * [Service Workers News](https://twitter.com/service_workers)
+* [Jake Archibald](https://twitter.com/jaffathecake)
+* [Alex Russell](https://twitter.com/slightlylate)
 
 ## Other
 
