@@ -22,11 +22,12 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Aaron T. Grogg - **The difference between Service Workers, Web Workers and WebSockets**](https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/)
 * [Remy Sharp - **The copy & paste guide to your first Service Worker**](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
 * [Alex Russell - **ServiceWorkers Explained**](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+* [Salvador de la Puente González - **Service Workers 101**](https://github.com/delapuente/service-workers-101)
 
 ## Constant Updates about Service Workers
 
 * [Mozilla Hacks - **ServiceWorkers**](https://hacks.mozilla.org/category/serviceworkers/)
-* [Jake Archibald Blog](https://jakearchibald.com/)
+* [Jake Archibald - **Blog**](https://jakearchibald.com/)
 
 ## Tutorials
 
