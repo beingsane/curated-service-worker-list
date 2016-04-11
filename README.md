@@ -1,6 +1,6 @@
 > A curated list of the awesome Service Worker API.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cez-aug/awesome-service-worker.svg)](http://github.com/cez-aug/awesome-service-worker)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/awesome-service-worker.svg)](http://github.com/cezar/awesome-service-worker)
 
 # Awesome Service Worker :man::sparkles:
 
@@ -45,7 +45,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [W3C - **Service Workers Demo**](https://github.com/w3c-webmob/ServiceWorkersDemos)
 * [Google Chrome - **Application Shell**](https://github.com/GoogleChrome/application-shell)
 * [Patrick Hamann - **Embrace the Network**](https://github.com/phamann/embrace-the-network)
-* [Matt Gaunt - Simple Push Demo](https://github.com/gauntface/simple-push-demo)
+* [Matt Gaunt - **Simple Push Demo**](https://github.com/gauntface/simple-push-demo)
 
 ## Videos
 
