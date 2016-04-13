@@ -39,6 +39,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Jake Archibald - **Offline Cookbook**](https://jakearchibald.com/2014/offline-cookbook)
 * [David Walsh - **Offline Recipes Service Workers**](https://davidwalsh.name/offline-recipes-service-workers)
 * [Google Codelabs - **Adding a Service Worker and Offline into your Web App**](https://codelabs.developers.google.com/codelabs/offline/index.html#0)
+* [Making a Simple Site Work Offline with ServiceWorker - *Nicolás Bevacqua*](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 
 ## Use Cases & Demos
 
