@@ -6,7 +6,7 @@
 
 Service workers essentially act as proxy servers that sit between web applications, and the browser and network (when available). They are intended to (amongst other things) enable the creation of effective offline experiences, intercepting network requests and taking appropriate action based on whether the network is available and updated assets reside on the server. 
 
-> Enjoy Service Workers & Web App stuff? Follow me on [Twitter](http://twitter.com/cez_aug) 
+> Enjoy Service Workers & Web App stuff? Follow me on [Twitter](http://twitter.com/cezaraugusto) 
 
 <br>
 <p align="center">
@@ -85,4 +85,4 @@ Service workers essentially act as proxy servers that sit between web applicatio
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Cezar Augusto](http://cezar.work) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Cezar Augusto](http://cezaraugusto.net) has waived all copyright and related or neighboring rights to this work.
