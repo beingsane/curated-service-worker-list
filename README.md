@@ -1,8 +1,8 @@
 > A curated list of the awesome Service Worker API.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/awesome-service-worker.svg)](http://github.com/cezar/awesome-service-worker)
+[![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/awesome-service-worker.svg)](http://github.com/cezar/awesome-service-worker)
 
-# Awesome Service Worker :man::sparkles:
+# The Curated Service Worker List :man::sparkles:
 
 Service workers essentially act as proxy servers that sit between web applications, and the browser and network (when available). They are intended to (amongst other things) enable the creation of effective offline experiences, intercepting network requests and taking appropriate action based on whether the network is available and updated assets reside on the server. 
 
@@ -14,6 +14,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 </p>
 <br>
 
+
 ## Getting Started
 
 * [HTML5Rocks - **Service Worker**](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
@@ -24,10 +25,12 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Alex Russell - **ServiceWorkers Explained**](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
 * [Salvador de la Puente González - **Service Workers 101**](https://github.com/delapuente/service-workers-101)
 
+
 ## Constant Updates about Service Workers
 
 * [Mozilla Hacks - **ServiceWorkers**](https://hacks.mozilla.org/category/serviceworkers/)
 * [Jake Archibald - **Blog**](https://jakearchibald.com/)
+
 
 ## Tutorials
 
@@ -41,6 +44,7 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Google Codelabs - **Adding a Service Worker and Offline into your Web App**](https://codelabs.developers.google.com/codelabs/offline/index.html#0)
 * [Making a Simple Site Work Offline with ServiceWorker - *Nicolás Bevacqua*](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 
+
 ## Use Cases & Demos
 
 * [W3C - **Service Workers Demo**](https://github.com/w3c-webmob/ServiceWorkersDemos)
@@ -48,9 +52,11 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Patrick Hamann - **Embrace the Network**](https://github.com/phamann/embrace-the-network)
 * [Matt Gaunt - **Simple Push Demo**](https://github.com/gauntface/simple-push-demo)
 
+
 ## Videos
 
 [Google Developers - **The ServiceWorker: The network layer is yours to own**](https://www.youtube.com/watch?v=4uQMl7mFB6g)
+
 
 ## References
 
@@ -60,10 +66,12 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Alex Russell - **The Service Worker Specification**](https://github.com/slightlyoff/ServiceWorker)
 * [Mozilla - **Service Worker Cookbook**](https://serviceworke.rs)
 
+
 ## Support
 
 * [Can I Use - **Service Workers**](http://caniuse.com/#feat=serviceworkers)
 * [Jake Archibald - **Is Service Worker ready?**](https://jakearchibald.github.io/isserviceworkerready/)
+
 
 ## Who to Follow?
 
@@ -71,16 +79,10 @@ Service workers essentially act as proxy servers that sit between web applicatio
 * [Jake Archibald](https://twitter.com/jaffathecake)
 * [Alex Russell](https://twitter.com/slightlylate)
 
+
 ## Other
 
-* [**Offline-first List** thing](https://github.com/pazguille/offline-first)
-
 > Found something missing? would like to include something new? [Contribute!](CONTRIBUTING.md)
-
-## To-Do :chicken:
-
-- [ ] Be approved on the [Awesome list](https://github.com/sindresorhus/awesome) thing
-- [ ] Organize topics based on SW functionality
 
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
